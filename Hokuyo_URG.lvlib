@@ -11,7 +11,6 @@
 	</Item>
 	<Item Name="Hokuyo_URG.aliases" Type="Document" URL="../Hokuyo_URG.aliases"/>
 	<Item Name="Hokuyo_URG.lvlps" Type="Document" URL="../Hokuyo_URG.lvlps"/>
-	<Item Name="Hokuyo_URG.lvproj" Type="Document" URL="../Hokuyo_URG.lvproj"/>
 	<Item Name="Scan_Continuous.vi" Type="VI" URL="../Scan_Continuous.vi"/>
 	<Item Name="Scan_Stationary.vi" Type="VI" URL="../Scan_Stationary.vi"/>
 </Library>
