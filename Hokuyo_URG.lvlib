@@ -9,6 +9,9 @@
 	<Item Name="20-Occupancy_Grid" Type="Folder">
 		<Item Name="Occupancy_Grid.vi" Type="VI" URL="../20-Occupancy_Grid/Occupancy_Grid.vi"/>
 	</Item>
+	<Item Name="30-Split_And_Merge" Type="Folder">
+		<Item Name="Untitled 1.vi" Type="VI" URL="../30-Split_And_Merge/Untitled 1.vi"/>
+	</Item>
 	<Item Name="Hokuyo_URG.aliases" Type="Document" URL="../Hokuyo_URG.aliases"/>
 	<Item Name="Hokuyo_URG.lvlps" Type="Document" URL="../Hokuyo_URG.lvlps"/>
 	<Item Name="Scan_Continuous.vi" Type="VI" URL="../Scan_Continuous.vi"/>
